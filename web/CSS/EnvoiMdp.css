@@ -1,0 +1,99 @@
+::selection{
+	background-color: #444;
+	/*color: white;*/
+	}
+	
+body{ 
+         background-image:url("../IMAGES/BGdebut.png");
+	  background-size:100% 130%;
+          margin-top:0px;
+	  text-align:center;
+	  vertical-align:middle;
+	  font:Code pro demo;
+	  color:orange;
+	  font-size:14pt;
+            
+	}  
+        
+#corps {
+        vertical-align:middle; 
+        /*width:900px;*/
+        margin-top:260px;
+        
+}
+     
+	
+
+
+.boutton{     
+                       cursor:pointer;
+                      margin:10px;
+			padding:8px;
+			width:300px;
+			background-color:orange;
+		    border:solid orange 2px;
+			border-radius:6px;
+			color:white;
+			font-size:14pt;
+                        box-shadow: 0px 0px 0.5px 0.25px; 
+                        margin-top:60px
+	}
+#copy{ 
+        
+    text-align:center;
+        margin-top:60px;
+        color:black;
+        opacity:0.2;
+        text-shadow:1px 1px black;
+       position:absolute;
+       bottom:10px;
+       right:45%;
+        
+} 
+#user{
+        padding:11px;
+        padding-left:42px;
+        border:solid 1.5px #552500;
+        border-radius:7px; 
+        text-shadow:0.5px 0.5px black;
+         color:#552500;
+         font-family:"times new roman";
+         display:inline-block;
+          text-align:left;
+        font-size:15pt;
+        font-weight:normal;
+        position:absolute;
+        bottom:29px;
+        left:60px;
+        
+        vertical-align:middle;
+        }
+.span2{
+        font-size:14pt;
+        font-family:"times new roman"; 
+        color:orange;
+       margin-right:5px;;
+     }
+#userPic{
+        width:2.3cm;
+        height:2.4cm;
+         position:absolute;
+        bottom:18px;
+        left:20px;     
+}
+.msg{font:verdana;
+     font-size:20pt;
+     font-weight:bold;
+     text-shadow:0.75px 0.75px black;}
+#texte2{
+    font-size:16pt;
+    font-weight:normal;
+    color:#552500;
+    margin-bottom:40px;
+}
+img{
+    height:3.5cm;
+    width:4cm;
+    opacity:0.8;
+    margin:4px;
+}

@@ -1,0 +1,5 @@
+//localhost:1433;
+BCP
+com.microsoft.sqlserver.jdbc.SQLServerDriver
+SQL
+simobenatia26rd

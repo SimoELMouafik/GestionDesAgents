@@ -1,0 +1,82 @@
+::selection{
+	background-color: #444;
+	/*color: white;*/
+	}
+	
+body{ 
+         background-image:url("../IMAGES/BGdebut.png");
+	  background-size:100% 120%;
+          margin-top:0px;
+	  text-align:center;
+	  vertical-align:middle;
+	  font:Code pro demo;
+	  color:orange;
+	  font-size:14pt;
+            
+	}  
+        
+#corps {
+        vertical-align:middle; 
+        /*width:900px;*/
+        margin-top:240px;
+        
+}
+     
+	
+
+
+.boutton{     
+                       cursor:pointer;
+                      margin:8px;
+			padding:8px;
+			width:300px;
+			background-color:orange;
+		    border:solid orange 2px;
+			border-radius:6px;
+			color:white;
+			font-size:14pt;
+                        box-shadow: 0px 0px 0.5px 0.25px; 
+	}
+#copy{ 
+        
+    text-align:center;
+        margin-top:60px;
+        color:black;
+        opacity:0.2;
+        text-shadow:1px 1px black;
+       position:absolute;
+       bottom:10px;
+       right:45%;
+        
+} 
+#user{
+        padding:11px;
+        padding-left:42px;
+        border:solid 1.5px #552500;
+        border-radius:7px; 
+        text-shadow:0.5px 0.5px black;
+         color:#552500;
+         font-family:"times new roman";
+         display:inline-block;
+          text-align:left;
+        font-size:15pt;
+        font-weight:normal;
+        position:absolute;
+        bottom:29px;
+        left:60px;
+        
+        vertical-align:middle;
+        }
+span{
+        font-size:14pt;
+        font-family:"times new roman"; 
+        color:orange;
+       margin-right:5px;;
+     }
+#userPic{
+        width:2.3cm;
+        height:2.4cm;
+         position:absolute;
+        bottom:18px;
+        left:20px;     
+}

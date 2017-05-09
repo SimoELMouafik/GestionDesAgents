@@ -1,0 +1,51 @@
+::selection{
+	background-color: #444;
+	/*color: white;*/
+	}
+img{
+	margin:25px;
+        margin-bottom:10px;
+        opacity:0.9;
+   }	
+body{ 
+          background-image:url("../IMAGES/BG1.png");
+	  background-size: 100% 120%;
+          margin-top:170px;
+	  text-align:center;
+	  vertical-align:middle;
+	  font:verdana;
+	  color:orange;
+	  font-size:14pt;
+          
+          
+          
+	}  
+#dsl{    
+         font-family:Verdana;
+         font-size:30pt;
+         text-shadow:0.1px 0.1px black; 
+         font-weight:bold;
+}
+#msg { text-shadow:0.1px 0.1px black;}     
+#envoi:hover{
+			cursor:pointer;
+			}
+#envoi{     
+            margin-top:10px;
+			padding:8px;
+			width:200px ;
+			background-color:orange;
+		    border:solid orange 2px;
+			border-radius:6px;
+			color:white;
+			font-size:16pt;
+                        box-shadow: 0px 0px 0.5px 0.25px; 
+	}
+#copy{ 
+        text-align:center;
+        margin-top:50px;
+        color:black;
+        opacity:0.2;
+        text-shadow:0.1px 0.1px black;
+        
+}        
