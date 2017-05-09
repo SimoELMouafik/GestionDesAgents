@@ -1,0 +1,2 @@
+# GestionDesAgents
+Une application web permettant la gestion des données des agents de la banque populaire , par un administrateur disposant d'un login et un mot de passe .  elle permet d'effectuer plusieurs fonctionnalités ( Ajout , modification , suppression , envoi du mot de passe ...)   Outils de travail : JAVA édition Entreprise , MVC , SQL server ,HTML5 ,CSS3 , Javascript , JQuery , Adobe illustrator .
